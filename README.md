@@ -10,11 +10,11 @@ This project demonstrates how to blink 4 LEDs at different frequencies (100ms, 2
 *The circuit schematic for 4 LEDs.*
 
 ## Files
-- `circuit.png`: Circuit schematic for 4 LEDs.
-- `code.c`: MikroC program using timer-based delays.
+- `4_LED.pdsprj`: Circuit schematic for 4 LEDs.
+- `four_LED.c`: MikroC program using timer-based delays.
 
 ## Instructions
-1. Set up the circuit as shown in `circuit.png`.
+1. open `4_LED.pdsprj` on Proteus.
 2. Compile `code.c` in MikroC to generate the hex file.
 3. Load the hex file into the microcontroller in Proteus.
 4. Run the simulation to observe the LEDs blinking at different intervals.
