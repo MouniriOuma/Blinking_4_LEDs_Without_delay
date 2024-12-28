@@ -4,7 +4,9 @@
 This project demonstrates how to blink 4 LEDs at different frequencies (100ms, 200ms, 300ms, and 400ms) using a timer instead of the `delay()` function.
 
 ## Circuit
-![Circuit Diagram](circuit.png)  
+![Circuit Diagram](circuit/4_LED_1.png) 
+![Circuit Diagram](circuit/4_LED_2.png) 
+![Circuit Diagram](circuit/4_LED_3.png) 
 *The circuit schematic for 4 LEDs.*
 
 ## Files
